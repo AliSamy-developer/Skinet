@@ -1,0 +1,17 @@
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.csproj.AssemblyReference.cache
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.AssemblyInfoInputs.cache
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.AssemblyInfo.cs
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.csproj.CoreCompileInputs.cache
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\bin\Debug\net7.0\Infrastructrue.deps.json
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\bin\Debug\net7.0\Infrastructrue.runtimeconfig.json
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\bin\Debug\net7.0\Infrastructrue.dll
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\bin\Debug\net7.0\Infrastructrue.pdb
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\bin\Debug\net7.0\Core.dll
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\bin\Debug\net7.0\Core.pdb
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.csproj.CopyComplete
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.dll
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\refint\Infrastructrue.dll
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.pdb
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\Infrastructrue.genruntimeconfig.cache
+E:\FCIH\ASP.NET 6\skinet\Infrastructrue\obj\Debug\net7.0\ref\Infrastructrue.dll
